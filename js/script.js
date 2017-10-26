@@ -15,7 +15,7 @@
 //******************TEST EARLY AND OFTEN USING console.log() ******************
 //****************** SERIOUSLY TEST USING console.log()!!! ******************
 
-
+console.log("hey");
 // Create your potrfolio object representation below
 
 
