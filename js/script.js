@@ -14,8 +14,11 @@
 // *************************** YOUR CODE BELOW *******************************
 //******************TEST EARLY AND OFTEN USING console.log() ******************
 //****************** SERIOUSLY TEST USING console.log()!!! ******************
+/*global $*/
+$(document).ready(function(){
+   console.log("hey");
+});
 
-console.log("hey");
 // Create your potrfolio object representation below
 
 
