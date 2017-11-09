@@ -2,10 +2,22 @@
 
 
 /* Header CSS */
-
-p{
+.emptyspace{
+    height:100px;
     
-    border: 2px solid blue;
+}
+.container{
+    border: 2px solid black;
+}
+p{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    text-align: left;
+    font-size: 20px;
+    
+}
+.heading, a{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 30px;
 }
 
 /* Section CSS */
@@ -17,10 +29,7 @@ p{
 
 
 /* Portfolio Item CSS */
-.img-thumbnail{
-    text-align:center;
-    
-}
+
 
 
 /* Footer CSS */
